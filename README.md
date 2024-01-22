@@ -1,3 +1,3 @@
 # Horror-Test-Project
-Site produzido com Html, Css e JavaScript, display de "Sim" ou "Não" com eventos ao interagir com os botões.
+Site produzido em Html, Css e Js. Uma ideia que tive utilizando eventos em Js.
 https://horror-test.neocities.org/
